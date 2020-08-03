@@ -7,11 +7,19 @@ body {
 }
 main {
   background-color: white;
-  width: 500px;
-  margin: 0 auto;
+  width: 560px;
+  margin: auto;
   padding: 10px;
   box-shadow: 3px 3px 5px rgb(34, 32, 32);
 }
 img.lado {
   float: right;
+}
+h1 {
+  font-size: 2em;
+  color: rgb(58, 0, 112);
+}
+h2 {
+  font-size: 1.5em;
+  color: rgb(58, 0, 112);
 }
